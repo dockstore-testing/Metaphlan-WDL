@@ -8,3 +8,6 @@ https://github.com/broadinstitute/cromwell
 https://github.com/teamcgc/cgcR/blob/master/vignettes/FireCloud-UsingWDL.Rmd
 https://github.com/teamcgc/cgcR/blob/master/vignettes/FireCloud-RNAseqUsingStar.Rmd
 
+Metaphlan Tutorial Files (metaphlan_cfg*)
+https://bitbucket.org/nsegata/metaphlan/wiki/MetaPhlAn_Pipelines_Tutorial
+
