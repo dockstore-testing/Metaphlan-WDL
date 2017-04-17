@@ -2,7 +2,7 @@
 This is a repository for Workflow Description Language (WDL) files, which are used to run analysis on the FireCloud.<br>
 https://software.broadinstitute.org/firecloud/
 
-Related resources
+Related resources<br>
 https://github.com/broadinstitute/wdl
 https://github.com/broadinstitute/cromwell
 https://github.com/teamcgc/cgcR/blob/master/vignettes/FireCloud-UsingWDL.Rmd
