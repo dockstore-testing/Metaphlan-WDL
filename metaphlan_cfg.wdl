@@ -1,3 +1,18 @@
+#  WDL file for running bioBakery's MetaPhlAn
+#
+#  Metaphlan Tutorial Files (metaphlan_cfg*)
+#  https://bitbucket.org/nsegata/metaphlan/wiki/MetaPhlAn_Pipelines_Tutorial
+#
+#  To run multiple samples (batch processing) in FireCloud -
+#  Upload *sample_set.tsv and then *sample_set_membership.tsv
+#  Under "Method Configuration" tab, select the method config (metaphlan)
+#  Confirm root entity is "sample" and Click "Launch Analysis..."
+#  Click "sample_set" button and select the sample set (set1)
+#  In the textbox "define expression," type "this.samples"
+#  Click "Launch"
+
+
+
 task metaphlan_task {
 
   File FASTQs
